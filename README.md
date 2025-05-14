@@ -9,7 +9,7 @@
 
 ## 🚧 Tecnologias & Ferramentas
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/">
     <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
