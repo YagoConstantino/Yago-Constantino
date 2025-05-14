@@ -1,6 +1,6 @@
 # Yago-Constantino
 
-# Olá, eu sou o Constantino 👋
+# Olá, eu sou o Yago Constantino 👋
 
 🎓 Estudante de Sistemas de Informação na UTFPR  
 
@@ -23,3 +23,6 @@
     <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   </a>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoConstantino&show_icons=true&theme=dark)
+
