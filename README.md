@@ -5,8 +5,6 @@
 🎓 Estudante de Sistemas de Informação na UTFPR (3/8)
 
 ---
-
-## 🚧 Tecnologias & Ferramentas
 ## 🚧 Tecnologias & Ferramentas
 
 <p align="left">
