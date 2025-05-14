@@ -7,26 +7,26 @@
 ---
 
 ## 🚧 Tecnologias & Ferramentas
-
 ## 🚧 Tecnologias & Ferramentas
 
 <p align="left">
   <a href="https://en.cppreference.com/w/c/language/history">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
   </a>
   <a href="https://isocpp.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
   </a>
   <a href="https://www.sfml-dev.org/">
-    <img src="https://unpkg.com/simple-icons@v8/icons/sfml.svg" alt="SFML" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/SFML-%23F48442?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML Badge"/>
   </a>
   <a href="https://www.qt.io/">
-    <img src="https://unpkg.com/simple-icons@v8/icons/qt.svg" alt="Qt" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/Qt-%23172C8F?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Badge"/>
   </a>
   <a href="https://www.sqlite.org/">
-    <img src="https://unpkg.com/simple-icons@v8/icons/sqlite.svg" alt="SQLite" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/SQLite-%2307405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
   </a>
 </p>
+
 
 ---
 
