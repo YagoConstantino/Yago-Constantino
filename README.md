@@ -35,11 +35,15 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-contribution-grid.glitch.me/image/YagoConstantino" />
+</p>
+
 
 ## 🚀 Projeto em Destaque
 
 ### [Jogo 2D em SFML](https://github.com/YagoConstantino/Jogo_TecProg)  
-Um jogo simples desenvolvido em C++ usando SFML — ideal para exercitar conceitos de programação de jogos, manipulação de sprites e colisões.
+Um jogo simples desenvolvido em C++ usando SFML — ideal para exercitar conceitos de programação de orientação á objetos e lógica de programação.
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YagoConstantino)](https://git.io/streak-stats)
