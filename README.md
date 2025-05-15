@@ -42,6 +42,7 @@
 Um jogo simples desenvolvido em C++ usando SFML — ideal para exercitar conceitos de programação de jogos, manipulação de sprites e colisões.
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YagoConstantino)](https://git.io/streak-stats)
 
 ## ✉️ Contato
 
