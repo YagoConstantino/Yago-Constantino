@@ -35,10 +35,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-contribution-grid.glitch.me/image/YagoConstantino" />
-</p>
-
 
 ## 🚀 Projeto em Destaque
 
