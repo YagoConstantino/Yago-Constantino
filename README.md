@@ -35,7 +35,7 @@
 </p>
 
 ---
-[📊 Veja meu gráfico de contribuições no GitHub](https://github.com/users/YagoConstantino/contributions)
+[📊 Veja meu gráfico de contribuições no GitHub](https://github.com/users/YagoConstantino)
 
 
 ## 🚀 Projeto em Destaque
