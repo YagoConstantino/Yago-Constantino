@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://en.cppreference.com/w/c/language/history">
-    <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+    <img src="https://camo.githubusercontent.com/e3a44d7bf7ce074f5efd452fd541f80aa31a4bc01dcf9b73a0f85c7c48462f50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f632f632d6f726967696e616c2e737667" alt="C Badge"/>
   </a>
   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
