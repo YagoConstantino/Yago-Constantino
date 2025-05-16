@@ -35,33 +35,11 @@
 </p>
 
 ---
+
 ## 🚀 Projeto em Destaque
 
-<div align="center">
-  <a href="https://github.com/YagoConstantino/Jogo_TecProg">
-    <img src="https://github.com/YagoConstantino/Jogo_TecProg/raw/main/assets/preview.png" alt="Jogo 2D SFML" style="border-radius: 8px; width: 100%; max-width: 600px;">
-  </a>
-</div>
-
-### 🎮 [Jogo 2D em SFML](https://github.com/YagoConstantino/Jogo_TecProg)
-
-> Um jogo 2D desenvolvido em **C++** com **SFML**, voltado para aprendizado de **orientação a objetos** e **lógica de programação**.  
-> O projeto faz parte da disciplina de **Técnicas de Programação**, e explora o uso de entidades, herança, gerenciamento de memória e eventos de jogo.
-
-**🧰 Tecnologias usadas:**
-- C++
-- SFML
-- Programação Orientada a Objetos
-- Git/GitHub
-
-**🕹️ Funcionalidades:**
-- Sistema de menus
-- Colisões e movimentação
-- Vidas, pontuação e inimigos
-- Gerenciador de fases
-
-📁 Acesse o repositório e veja o código completo:  
-👉 [github.com/YagoConstantino/Jogo_TecProg](https://github.com/YagoConstantino/Jogo_TecProg)
+### [Jogo 2D em SFML](https://github.com/YagoConstantino/Jogo_TecProg)  
+Um jogo simples desenvolvido em C++ usando SFML — ideal para exercitar conceitos de programação de orientação à objetos e lógica de programação.
 
 ---
 
