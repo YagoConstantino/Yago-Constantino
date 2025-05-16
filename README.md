@@ -5,26 +5,26 @@
 🎓 Estudante de Sistemas de Informação na UTFPR (3/8)
 
 ---
+
 ## 🚧 Tecnologias & Ferramentas
 
 <p align="left">
   <a href="https://en.cppreference.com/w/c/language/history">
-    <img src="https://camo.githubusercontent.com/e3a44d7bf7ce074f5efd452fd541f80aa31a4bc01dcf9b73a0f85c7c48462f50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f632f632d6f726967696e616c2e737667" alt="C Badge"/>
+    <img src="https://camo.githubusercontent.com/e3a44d7bf7ce074f5efd452fd541f80aa31a4bc01dcf9b73a0f85c7c48462f50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f632f632d6f726967696e616c2e737667" alt="C" width="40" height="40"/>
   </a>
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+    <img src="https://camo.githubusercontent.com/80db81cbb513e4c341f1876ba15196b5f938b20a106653fbfd7bd25c3b858348/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://www.sfml-dev.org/">
-    <img src="https://img.shields.io/badge/SFML-%23F48442?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML Badge"/>
+    <img src="https://camo.githubusercontent.com/6f0c79e625c90f38b5f4211e51ce21bf7dd9ab23ad5ef877ec415c8caa0847d2/68747470733a2f2f7777772e73666d6c2d6465762e6f72672f646f776e6c6f61642f676f6f646965732f73666d6c2d69636f6e2e737667" alt="SFML" width="40" height="40"/>
   </a>
   <a href="https://www.qt.io/">
-    <img src="https://img.shields.io/badge/Qt-%23172C8F?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Badge"/>
+    <img src="https://camo.githubusercontent.com/95b3daad0430b34a3e4c7368340bb5b0cb14b64ffd5b951515745d2bf3cf2b40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f71742f71742d6f726967696e616c2e737667" alt="Qt" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/">
-    <img src="https://img.shields.io/badge/SQLite-%2307405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
+    <img src="https://camo.githubusercontent.com/165409eeaa703a2539749559ecc8097953071a1dc28642210728dc0b4a050465/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c6974652f73716c6974652d6f726967696e616c2e737667" alt="SQLite" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
@@ -36,13 +36,13 @@
 
 ---
 
-
 ## 🚀 Projeto em Destaque
 
 ### [Jogo 2D em SFML](https://github.com/YagoConstantino/Jogo_TecProg)  
-Um jogo simples desenvolvido em C++ usando SFML — ideal para exercitar conceitos de programação de orientação á objetos e lógica de programação.
+Um jogo simples desenvolvido em C++ usando SFML — ideal para exercitar conceitos de programação de orientação à objetos e lógica de programação.
 
 ---
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YagoConstantino)](https://git.io/streak-stats)
 
 ## ✉️ Contato
